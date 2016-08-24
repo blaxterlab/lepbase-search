@@ -1,4 +1,4 @@
-# lepbase-search
+# ngenomes-search
 Adds autocompleting search to an ensembl site against a search index generated using the [easy-import](http://easy-import.readme.io) pipeline.
 
 ## Forking
